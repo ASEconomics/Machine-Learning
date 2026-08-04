@@ -63,15 +63,11 @@ pip install numpy pandas scipy matplotlib geopandas scikit-learn linearmodels do
 
 ```text
 Machine-Learning/
-
-│
 ├── China Syndrome DML-IV ExtensionV2.ipynb
 ├── AI_DISCLOSURE.md
-│
 ├── Public-Release-Data/
 │   └── dta/
 │       └── workfile_china.dta
-│
 ├── shapefiles/
 │   ├── cz1990.shp
 ├── README.md
