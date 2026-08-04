@@ -63,8 +63,10 @@ pip install numpy pandas scipy matplotlib geopandas scikit-learn linearmodels do
 
 ```text
 Machine-Learning/
-├── China Syndrome DML-IV ExtensionV2.ipynb
 ├── AI_DISCLOSURE.md
+├── China Syndrome DML-IV ExtensionV2.ipynb
+├── China Syndrome Replication + ML Extension.pdf
+├── China Syndrome DML-IV ExtensionV2_Colab.ipynb
 ├── Public-Release-Data/
 │   └── dta/
 │       └── workfile_china.dta
@@ -73,7 +75,7 @@ Machine-Learning/
 ├── README.md
 └── output/
 ```
-
+Note that the report is nested between the python files. There are also two versions of the code, one which was where the code was originally edited in (jupyter notebook), and a second version which is imported to Colab.
 ---
 
 ## Data
